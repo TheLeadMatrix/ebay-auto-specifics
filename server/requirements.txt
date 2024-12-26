@@ -1,0 +1,8 @@
+flask
+google-cloud-vision
+openai>=1.0.0
+requests
+python-dotenv 
+sift-stack-py
+flask-cors
+google-auth
